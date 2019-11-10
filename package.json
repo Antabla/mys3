@@ -1,0 +1,15 @@
+{
+  "name": "mis3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.568.0",
+    "checksum": "^0.1.1"
+  }
+}
